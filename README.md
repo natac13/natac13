@@ -4,9 +4,6 @@ My name is Sean Campbell a.k.a [natac13](https://natac13.github.io)
 
 I am a self-taught fullstack web developer from Canada.
 
-- 🔭 I’m currently working on my project [CertGround](https://certground.com)
-- 💬 Ask me about anything [here](https://github.com/natac13/natac13/issues)
-
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
